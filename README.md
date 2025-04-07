@@ -7193,11 +7193,9 @@ Disadvantages:
 
 <!-- QUESTIONS:ALL:END -->
 
-## Questions by Difficulty
 
-JavaScript interview questions categorized by difficulty.
 
-### Basic-level JavaScript Interviews Questions
+
 
 <!-- QUESTIONS:BASIC:START -->
 
@@ -7301,13 +7299,6 @@ JavaScript interview questions categorized by difficulty.
 98. [What is the spread operator and how is it used?](#what-is-the-spread-operator-and-how-is-it-used)
 99. [What is the ternary operator and how is it used?](#what-is-the-ternary-operator-and-how-is-it-used)
 100. [What is the use of `Promise.all()`](#what-is-the-use-of-promiseall)
-
-<!-- QUESTIONS:BASIC:END -->
-
-### Intermediate-level JavaScript Interviews Questions
-
-<!-- QUESTIONS:INTERMEDIATE:START -->
-
 1. [What's a typical use case for anonymous functions in JavaScript?](#whats-a-typical-use-case-for-anonymous-functions-in-javascript)
 2. [What is a closure in JavaScript, and how/why would you use one?](#what-is-a-closure-in-javascript-and-howwhy-would-you-use-one)
 3. [What are the pros and cons of using Promises instead of callbacks in JavaScript?](#what-are-the-pros-and-cons-of-using-promises-instead-of-callbacks-in-javascript)
@@ -7380,13 +7371,6 @@ JavaScript interview questions categorized by difficulty.
 70. [What is the Module pattern and how does it help with encapsulation?](#what-is-the-module-pattern-and-how-does-it-help-with-encapsulation)
 71. [What is the prototype chain and how does it work?](#what-is-the-prototype-chain-and-how-does-it-work)
 72. [What's the difference between an "attribute" and a "property" in the DOM?](#whats-the-difference-between-an-attribute-and-a-property-in-the-dom)
-
-<!-- QUESTIONS:INTERMEDIATE:END -->
-
-### Advanced-level JavaScript Interviews Questions
-
-<!-- QUESTIONS:ADVANCED:START -->
-
 1. [What is `'use strict';` in JavaScript for?](#what-is-use-strict-in-javascript-for)
 2. [What are JavaScript polyfills for?](#what-are-javascript-polyfills-for)
 3. [What are iterators and generators in JavaScript and what are they used for?](#what-are-iterators-and-generators-in-javascript-and-what-are-they-used-for)
@@ -7409,4 +7393,5 @@ JavaScript interview questions categorized by difficulty.
 20. [What are Web Workers and how can they be used to improve performance?](#what-are-web-workers-and-how-can-they-be-used-to-improve-performance)
 21. [When would you use `document.write()`?](#when-would-you-use-documentwrite)
 
-<!-- QUESTIONS:ADVANCED:END -->
+
+<!-- QUESTIONS:BASIC:END -->
