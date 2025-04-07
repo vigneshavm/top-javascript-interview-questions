@@ -6946,6 +6946,9 @@ Disadvantages:
 
 <!-- QUESTIONS:BASIC:START -->
 
+| No. | Questions | Level |
+| --- | :-- | :-- |
+
 | 1 | [Explain the concept of "hoisting" in JavaScript](#explain-the-concept-of-hoisting-in-javascript) | Basic |
 | 2 | [What are the differences between JavaScript variables created using `let`, `var` or `const`?](#what-are-the-differences-between-javascript-variables-created-using-let-var-or-const) | Basic |
 | 3 | [What is the difference between `==` and `===` in JavaScript?](#what-is-the-difference-between--and--in-javascript) | Basic |
@@ -7289,6 +7292,7 @@ Disadvantages:
 98. [What is the spread operator and how is it used?](#what-is-the-spread-operator-and-how-is-it-used)
 99. [What is the ternary operator and how is it used?](#what-is-the-ternary-operator-and-how-is-it-used)
 100. [What is the use of `Promise.all()`](#what-is-the-use-of-promiseall)
+    
 1. [What's a typical use case for anonymous functions in JavaScript?](#whats-a-typical-use-case-for-anonymous-functions-in-javascript)
 2. [What is a closure in JavaScript, and how/why would you use one?](#what-is-a-closure-in-javascript-and-howwhy-would-you-use-one)
 3. [What are the pros and cons of using Promises instead of callbacks in JavaScript?](#what-are-the-pros-and-cons-of-using-promises-instead-of-callbacks-in-javascript)
