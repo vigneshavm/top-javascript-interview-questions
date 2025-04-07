@@ -20,7 +20,7 @@
 
 ---
 
-## Table of Contents (Top Questions)
+
 
 This list contains the top essential questions that are frequently-asked during Front End Engineer interviews. Concise versions of the answers are presented here with links to elaborate versions for further reading. This section is great if you need a quick refresher of the most important concepts.
 
@@ -78,17 +78,6 @@ This list contains the top essential questions that are frequently-asked during 
 | 48 | [What tools and techniques do you use for debugging JavaScript code?](#what-tools-and-techniques-do-you-use-for-debugging-javascript-code) | Intermediate |
 | 49 | [What are workers in JavaScript used for?](#what-are-workers-in-javascript-used-for) | Advanced |
 | 50 | [How does JavaScript garbage collection work?](#how-does-javascript-garbage-collection-work) | Advanced |
-
-<!-- TABLE_OF_CONTENTS:TOP:END -->
-
-## Table of Contents (All Questions)
-
-This list contains a longer list of important JavaScript questions. Not all of them will be asked during Front End Engineer interviews but they provide a well-rounded review of JavaScript concepts ranging from beginner to advanced topics.
-
-<!-- TABLE_OF_CONTENTS:ALL:START -->
-
-| No. | Questions | Level |
-| --- | :-- | :-- |
 | 1 | [What are the various data types in JavaScript?](#what-are-the-various-data-types-in-javascript) | Basic |
 | 2 | [How do you check the data type of a variable?](#how-do-you-check-the-data-type-of-a-variable) | Basic |
 | 3 | [What's the difference between a JavaScript variable that is: `null`, `undefined` or undeclared?](#whats-the-difference-between-a-javascript-variable-that-is-null-undefined-or-undeclared) | Basic |
